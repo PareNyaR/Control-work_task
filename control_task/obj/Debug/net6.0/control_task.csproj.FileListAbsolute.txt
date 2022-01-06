@@ -1,0 +1,16 @@
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\bin\Debug\net6.0\control_task.exe
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\bin\Debug\net6.0\control_task.deps.json
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\bin\Debug\net6.0\control_task.runtimeconfig.json
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\bin\Debug\net6.0\control_task.dll
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\bin\Debug\net6.0\ref\control_task.dll
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\bin\Debug\net6.0\control_task.pdb
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.GlobalUsings.g.cs
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.csproj.AssemblyReference.cache
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.AssemblyInfoInputs.cache
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.AssemblyInfo.cs
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.csproj.CoreCompileInputs.cache
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.dll
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\ref\control_task.dll
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.pdb
+C:\Users\ПДЕ\Desktop\ControlWork\control_task\obj\Debug\net6.0\control_task.genruntimeconfig.cache
