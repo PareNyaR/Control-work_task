@@ -2,10 +2,20 @@
 // Первоначальный массив можно ввести с клавиатуры, либо сгенерировать случайным образом.
 // При решении неnрекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-int [] CreateArray = new int [10]; // Создаем массив
+int [] CreateArray = new int [10]; // Создаем имеющийся массив
 System.Console.WriteLine ("Имеющийся массив: ");
-for (int i = 0; i < CreateArray.Length; i++) //Задаем цикл
+for (int i = 0; i < CreateArray.Length; i++) //Задаем цикл 
 {
-    CreateArray [i] = new Random (). Next(1, 10); //Заполняем массив
-    System.Console.Write($"CreateArray[i]}"); // Выводим созданный массив
+    CreateArray [i] = new Random (). Next(1, 10); //сгенерируем массив чисел случайным образом
+    System.Console.Write($"{CreateArray[i]}"); // Выводим имеющийся массив при заданных условиях
+}
+
+System.Console.WriteLine();
+System.Console.WriteLine("Массив из четных чисел: ");
+for (int i=0; i < CreateArray.Length; i++) // задаем второй цикл
+{
+    if (CreateArray[i] % 2 == 0)
+    {
+        System.Console.WriteLine($"{CreateArray[i]}"); // задаем условие при котором индексы имеющегося массива с четными числами переходят в массив с четными числами
+    }
 }
