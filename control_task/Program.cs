@@ -4,3 +4,8 @@
 
 int [] CreateArray = new int [10]; // Создаем массив
 System.Console.WriteLine ("Имеющийся массив: ");
+for (int i = 0; i < CreateArray.Length; i++) //Задаем цикл
+{
+    CreateArray [i] = new Random (). Next(1, 10); //Заполняем массив
+    System.Console.Write($"CreateArray[i]}"); // Выводим созданный массив
+}
